@@ -1,6 +1,6 @@
 .vscode/
 .idea/
-.git/
+.yarn/
 
 node_modules/
 

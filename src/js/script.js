@@ -119,6 +119,3 @@ $('#surname').suggestions({
 	type: 'NAME'
 })
 //})
-
-
-
